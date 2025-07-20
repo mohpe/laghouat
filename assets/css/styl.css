@@ -1131,7 +1131,7 @@ transition: 0.3s ease-in-out;
   header .top_header .search_box input{
   height: 45px;
   width: 350px;
-  padding: 0;
+  padding: 1px;
 }
   
   header .botton_header .category_nav{

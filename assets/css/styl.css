@@ -1127,6 +1127,13 @@ transition: 0.3s ease-in-out;
 
 
  @media (max-width:400px) {
+
+  header .top_header .search_box input{
+  height: 45px;
+  width: 350px;
+  padding: 0;
+}
+  
   header .botton_header .category_nav{
     display: none;
   }

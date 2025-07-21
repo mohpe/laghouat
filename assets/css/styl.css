@@ -1128,11 +1128,18 @@ transition: 0.3s ease-in-out;
 
  @media (max-width:400px) {
 
+  
   header .top_header .search_box input{
   height: 45px;
   width: 350px;
   padding: 1px;
 }
+
+/*     تم اضافته من قبل محمد نوار */
+ header .botton_header .container{
+  position: absolute;
+ }
+
   
   header .botton_header .category_nav{
     display: none;

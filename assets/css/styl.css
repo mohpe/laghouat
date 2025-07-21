@@ -1140,7 +1140,16 @@ transition: 0.3s ease-in-out;
   position: absolute;
  }
 
-  
+   header .botton_header .container .login_signup {
+  display: none;
+
+ }
+
+  header .botton_header .category_nav{
+    display: none;
+  }
+
+/*   نهاية الاضافة التي تمة من قبل محمد نواؤ */
   header .botton_header .category_nav{
     display: none;
   }

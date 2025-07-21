@@ -1,6 +1,6 @@
 
 
-const scriptURL = "https://script.google.com/macros/s/AKfycbywQxQI-qQu6ETA577nt7AO8HOQQ3eyq02CteDfPHg5npiYkX9Sf3lGrpI3V7fNW43k/exec";
+const scriptURL = https:"//script.google.com/macros/s/AKfycbwMy0k-nVkDt2XHbPgxy-KfRNOJKU-o8VJTT-z_nUVPkfBjV5ebOETH0wyn8DP89iwbJA/exec";
 
 const form = document.getElementById("form_contact");
 const checkout_items = document.getElementById("checkout_items");
